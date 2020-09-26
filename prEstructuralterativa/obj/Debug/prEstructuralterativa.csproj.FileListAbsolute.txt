@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\prEstructuralterativa\bin\Debug\prEstructuralterativa.exe.config
+C:\Users\User\source\repos\prEstructuralterativa\bin\Debug\prEstructuralterativa.exe
+C:\Users\User\source\repos\prEstructuralterativa\bin\Debug\prEstructuralterativa.pdb
+C:\Users\User\source\repos\prEstructuralterativa\obj\Debug\prEstructuralterativa.csprojAssemblyReference.cache
+C:\Users\User\source\repos\prEstructuralterativa\obj\Debug\prEstructuralterativa.Form1.resources
+C:\Users\User\source\repos\prEstructuralterativa\obj\Debug\prEstructuralterativa.Properties.Resources.resources
+C:\Users\User\source\repos\prEstructuralterativa\obj\Debug\prEstructuralterativa.csproj.GenerateResource.cache
+C:\Users\User\source\repos\prEstructuralterativa\obj\Debug\prEstructuralterativa.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\prEstructuralterativa\obj\Debug\prEstructuralterativa.exe
+C:\Users\User\source\repos\prEstructuralterativa\obj\Debug\prEstructuralterativa.pdb
+C:\Users\User\source\repos\prEstructuralterativa\obj\Debug\prEstructuralterativa.Form2.resources

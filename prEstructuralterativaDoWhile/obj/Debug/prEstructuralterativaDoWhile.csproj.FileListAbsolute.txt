@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\prEstructuralterativaDoWhile\bin\Debug\prEstructuralterativaDoWhile.exe.config
+C:\Users\User\source\repos\prEstructuralterativaDoWhile\bin\Debug\prEstructuralterativaDoWhile.exe
+C:\Users\User\source\repos\prEstructuralterativaDoWhile\bin\Debug\prEstructuralterativaDoWhile.pdb
+C:\Users\User\source\repos\prEstructuralterativaDoWhile\obj\Debug\prEstructuralterativaDoWhile.csprojAssemblyReference.cache
+C:\Users\User\source\repos\prEstructuralterativaDoWhile\obj\Debug\prEstructuralterativaDoWhile.Form1.resources
+C:\Users\User\source\repos\prEstructuralterativaDoWhile\obj\Debug\prEstructuralterativaDoWhile.Properties.Resources.resources
+C:\Users\User\source\repos\prEstructuralterativaDoWhile\obj\Debug\prEstructuralterativaDoWhile.csproj.GenerateResource.cache
+C:\Users\User\source\repos\prEstructuralterativaDoWhile\obj\Debug\prEstructuralterativaDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\prEstructuralterativaDoWhile\obj\Debug\prEstructuralterativaDoWhile.exe
+C:\Users\User\source\repos\prEstructuralterativaDoWhile\obj\Debug\prEstructuralterativaDoWhile.pdb
+C:\Users\User\source\repos\prEstructuralterativaDoWhile\obj\Debug\prEstructuralterativaDoWhile.Form2.resources
